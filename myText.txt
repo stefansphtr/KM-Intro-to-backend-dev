@@ -1,1 +1,1 @@
-test utk bisa dibaca
+Coba membaca teks dari txt file menggunakan built-in module fs
