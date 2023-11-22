@@ -1,0 +1,21 @@
+{
+  "name": "watashi",
+  "version": "1.0.0",
+  "description": "watashi wa amam desu",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "keywords": [
+    "japan"
+  ],
+  "author": "amam",
+  "license": "ISC",
+  "dependencies": {
+    "random-js": "^2.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
